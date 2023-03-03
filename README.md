@@ -13,4 +13,4 @@ $ bitlist -h 1234abcde
 $ bitlist -d 12344432
 ```
 ## Example output:
-![Screenshot](example.gif?raw=true "output example")
+![Screenshot](example.png?raw=true "output example")
