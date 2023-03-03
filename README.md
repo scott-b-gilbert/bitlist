@@ -1,5 +1,5 @@
 # bitlist
-rust cli app that shows the set bits of any binary, decimal, or hexadecimal number.  
+rust cli app that shows the set bits (in red) of any binary, decimal, or hexadecimal number.  
 Much like the bit toggling view of windows 10 calculator
 
 ## Usage:
