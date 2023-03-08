@@ -1,6 +1,6 @@
 # bitlist
 rust cli app that shows the set bits (in red) of any binary, decimal, or hexadecimal number.  
-Much like the bit toggling view of windows 10 calculator
+This is meant to look like the bit toggling view of windows 10 calculator
 
 ## Usage:
 ```
